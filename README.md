@@ -1,1 +1,4 @@
-# T4KB---Lenguaje-de-Programaci-n-II
+# Josseph Ramses Asurza Moran
+### Lenguaje de Programación II
+### Computación e informática
+## 2022
